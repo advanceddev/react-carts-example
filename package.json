@@ -1,5 +1,6 @@
 {
   "name": "cart-manager",
+  "homepage": "https://advanceddev.github.io/react-carts-example",
   "private": true,
   "version": "0.0.0",
   "type": "module",
