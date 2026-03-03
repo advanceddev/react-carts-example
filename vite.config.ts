@@ -4,7 +4,7 @@ import path from 'path';
 
 const getBasePath = () => {
   if (process.env.NODE_ENV === 'production') {
-    return '/react-carts-example/';
+    return '/react-carts-example';
   }
   return '/';
 };
